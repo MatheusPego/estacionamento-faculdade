@@ -10,7 +10,7 @@ Fazer a saída do veículo, calculando o valor que tem que pagar.
 
 Só isso, bem simples.
 
-Como funciona o projeto
+### Como funciona o projeto
 Tem umas 4 classes principais:
 
 AppSistema.java — É o menu, onde você escolhe o que fazer.
@@ -21,7 +21,7 @@ Veiculo.java — A classe que representa os veículos, com placa, marca, modelo,
 
 PorteVeiculo.java — Enum pra dizer se o carro é pequeno, médio ou grande
 
-Detalhes importantes:
+### Detalhes importantes:
 
 O valor é calculado com base no tempo que o veículo ficou estacionado.
 Motos (Pequeno): R$8,00 por hora, Carros (Médio): R$16,00 por hora, Caminhão, ônibus (Grande): R$25,00 por hora.
@@ -34,7 +34,7 @@ Se não achar a placa, avisa que não tem no estacionamento.
 
 Tudo pelo terminal mesmo.
 
-O que devo melhorar: 
+### O que devo melhorar: 
 
 Talvez uma interface.
 
