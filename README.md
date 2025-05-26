@@ -30,9 +30,7 @@ São 60 vagas, se lotar, não tem como registrar mais veículo.
 
 Pra saída do veículo, você precisa digitar a placa.
 
-Se não achar a placa, avisa que não tem no estacionamento.
-
-Tudo pelo terminal mesmo.
+Se não achar a placa, avisa que não tem no estacionamento.Tudo pelo terminal mesmo.
 
 ### O que devo melhorar: 
 
@@ -41,8 +39,6 @@ Talvez uma interface.
 Guardar os dados em arquivo ou banco (pra não perder quando fechar o programa).
 
 Mostrar lista dos veículos que estão estacionados.
-
-Fazer uma interface gráfica (mas isso já dá trabalho).
 
 Cobrar por minuto ou fração de hora (porque cobrar hora cheia é meio ruim).
 
