@@ -10,8 +10,8 @@ Fazer a saída do veículo, calculando o valor que tem que pagar.
 
 Só isso, bem simples.
 
-### Como funciona o projeto
-Tem umas 4 classes principais:
+### Como funciona o projeto:
+Tem umas 4 classes principais, sendo: 
 
 AppSistema.java — É o menu, onde você escolhe o que fazer.
 
