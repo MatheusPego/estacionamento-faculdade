@@ -1,4 +1,4 @@
-Sistema Simples de Estacionamento em Java
+## Sistema Simples de Estacionamento em Java
 
 É um programinha básico em Java que controla um estacionamento com 60 vagas fixas. Você pode:
 
