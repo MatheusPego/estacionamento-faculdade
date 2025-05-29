@@ -8,7 +8,7 @@ Registrar um veículo com placa, marca, modelo e porte.
 
 Fazer a saída do veículo, calculando o valor que tem que pagar.
 
-Só isso, bem simples.
+Só isso, bem simples. Também disponibilizei um diagrama UML feito por mim no LucidChart para ajudar na compreensão.
 
 ### Como funciona o projeto:
 Tem 4 classes principais, sendo: 
